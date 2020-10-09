@@ -1,0 +1,11 @@
+{
+    "name": "Docker Build Action",
+    "description": "Ascend NTNU Action Template for docker builds",
+    "iconName": "docker-icon",
+    "categories": [
+	"Docker"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
